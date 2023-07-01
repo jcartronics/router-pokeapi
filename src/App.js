@@ -15,9 +15,9 @@ function App() {
       <BrowserRouter>
         <Navbar/>
         <Routes>
-          <Route path='/' element={Home} />
-          <Route path='/pokemon' element={PokeList} />
-          <Route path='/pokemon/:id' element={PokeCard} />
+          <Route path='/' element={<Home/>} />
+          <Route path='/pokemon' element={<PokeList/>} />
+          <Route path='/pokemon/:id' element={<PokeCard/>} />
         </Routes>
       </BrowserRouter>
     </div>

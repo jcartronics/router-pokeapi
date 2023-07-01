@@ -57,3 +57,7 @@
 .inactive {
   color: #bfbdb3
 }
+
+.pikachu {
+  max-height: 300px;
+}
