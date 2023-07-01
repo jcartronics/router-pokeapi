@@ -61,3 +61,13 @@
 .pikachu {
   max-height: 300px;
 }
+
+.pokemonSeleccionado {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+  justify-content: center;
+  width: 300px;
+  gap: 10px;;
+}
