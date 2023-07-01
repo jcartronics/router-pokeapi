@@ -71,3 +71,10 @@
   width: 300px;
   gap: 10px;;
 }
+
+.pokeCard {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin: 0 auto;
+}
